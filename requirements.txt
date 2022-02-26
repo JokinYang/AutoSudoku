@@ -1,0 +1,5 @@
+opencv-python==4.5.5.62
+ddddocr==1.4.2
+numpy==1.19.3
+seleniumbase==2.4.14
+
